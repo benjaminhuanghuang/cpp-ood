@@ -1,3 +1,4 @@
+
 enum class VehicleSize { motorcycle = 0, car = 1, bus = 2 };
 
 class Vehicle {
