@@ -4,6 +4,13 @@ https://codereview.stackexchange.com/questions/207958/modeling-a-parking-lot
 
 https://www.geeksforgeeks.org/design-parking-lot-using-object-oriented-principles/
 
+thought-works: Object Oriented design for Elevator in a multi-storied apartment
+
+https://www.youtube.com/watch?v=DSGsa0pu8-k&ab_channel=SuccessinTech
+
+https://posts.careerengine.us/p/5c79f4fcea239a4055c6852f
+
+[小土刀]https://wdxtub.com/interview/14520604446608.html     
 
 Solution: For our purposes right now, we’ll make the following assumptions. We made these specific assumptions to add a bit of complexity to the problem without adding too much. If you made different assumptions, that’s totally fine.
 1) The parking lot has multiple levels. Each level has multiple rows of spots.
